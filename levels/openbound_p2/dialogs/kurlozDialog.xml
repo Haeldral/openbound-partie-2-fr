@@ -1,42 +1,42 @@
 <sburb description='kurloz dialogs'>
 	<classes>
-		<action sprite='meenah' class='kurlozTalk1' command='talk' name='Talk to Kurloz.'>
+		<action sprite='meenah' class='kurlozTalk1' command='talk' name='Parle à Kurloz.'>
       <args>
-      @meenah_idle MEENAH: yo freak remember me
+      @meenah_idle MEENAH: yo laffreux tu me reconnais
       @kurloz_smile:#:o) KURLOZ: 
-      @meenah_idle MEENAH: so 
-      @meenah_talk MEENAH: so what kinda conversation could we even have that wouldnt be weird and awkward
+      @meenah_idle MEENAH: alors 
+      @meenah_talk MEENAH: alors se pourrait il que nous aileron une conversation qui ne soit pas bizarre et malaisante
       @kurloz_smile:#:o) KURLOZ: 
-      @meenah_idle MEENAH: i sea
-      @meenah_talk MEENAH: got anyfin for me other than an eerie glare and a gross stiched up smile
+      @meenah_idle MEENAH: je vois
+      @meenah_talk MEENAH: tas autre chose pour moi que ce regard de merlan frit et cet horrible sourire cousu
       @kurloz_smile:#:o) KURLOZ: 
-      @meenah_talk MEENAH: whats the wicked word these days
+      @meenah_talk MEENAH: tes mots sont rudes aujourdhui
       @kurloz_finger:#:o) KURLOZ: 
-      @meenah_annoyed MEENAH: shit be cold home skillet
+      @meenah_annoyed MEENAH: l’ambiance doit être frigorifique à la maison sac d’os
       <!--  -->
       </args>
 		</action>
 
-		<action sprite='meenah' class='kurlozTalk2' command='talk' name='Ask Kurloz to join.'>
+		<action sprite='meenah' class='kurlozTalk2' command='talk' name='Demande à Kurloz de te rejoindre.'>
       <args>
-      @meenah_talk MEENAH: so i guess i want you to join my army
-      @meenah_idle MEENAH: maybe
-      @meenah_talk MEENAH: if you promise you aint gonna be too capricious or clown ass batshit or whatever
+      @meenah_talk MEENAH: bon je suppose que jaimerais que tu rejoignes mon armee
+      @meenah_idle MEENAH: peut etre
+      @meenah_talk MEENAH: si tu promets que tu feras pas de caprice que tu feras pas tes trucs de clown a la con ou quoi
       @kurloz_no:#:o) KURLOZ: 
-      @meenah_talk MEENAH: well least your honest about it
-      @meenah_talk MEENAH: got any crazy chucklevoodoo tips on how to kill a cherub?
+      @meenah_talk MEENAH: bon au moins tu es honnete a ce sujet
+      @meenah_talk MEENAH: taurais pas une astuce farfelue de chucklevoodoo sur comment tuer un cherubin
       @kurloz_shrug:#:o) KURLOZ: 
-      @meenah_idle MEENAH: so
-      @meenah_talk MEENAH: nothing to say as usual then
+      @meenah_idle MEENAH: bon
+      @meenah_talk MEENAH: rien a dire comme dhabitude alors
       @kurloz_zip:#:o) KURLOZ: 
-      @meenah_talk MEENAH: its awesome we had this talk
+      @meenah_talk MEENAH: quelle conversation surprenante
       <!--  -->
       </args>
 		</action>
 
-		<action sprite='meenah' class='kurlozTalk3' command='talk' name='Be Kurloz.'>
+		<action sprite='meenah' class='kurlozTalk3' command='talk' name='Deviens Kurloz.'>
       <args>
-      @! You wouldn't even know how to BEGIN being this oddball. Best to just leave him alone.
+      @! Vous ne sauriez même pas par où COMMENCER pour devenir cet excentrique. Vous feriez mieux de le laisser seul.
       <!--  -->
       </args>
 		</action>
