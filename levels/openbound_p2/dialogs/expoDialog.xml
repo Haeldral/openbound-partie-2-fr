@@ -1,38 +1,38 @@
 <sburb description='exposition dialogs'>
 	<classes>
-		<action class='expoTalk0' command='talk' name='Ask Aranea about Cherubquest.'>
+		<action class='expoTalk0' command='talk' name='Demande à Aranea où en est sa Chérubinquest.'>
       <args>
-      @aranea_surprised ARANEA: I...
-      @aranea_think ARANEA: Still haven't found her quite yet.
-      @meenah_idle MEENAH: any leads or
-      @aranea_idle ARANEA: Not really.
-      @aranea_talk ARANEA: She's apparently very well hidden!
-      @meenah_idle MEENAH: um yeah sure
-      @meenah_idle MEENAH: but
-      @meenah_talk MEENAH: have you even really been lookin
-      @aranea_idle ARANEA: Um...
-      @meenah_happytalk MEENAH: or have you been fucking around with your lil exposition stand
-      @aranea_annoyedtalk ARANEA: I have 8een dividing my time efficiently. 8ut thank you for your concern.
-      @meenah_talk MEENAH: it wasnt even that long ago we talked about other boring stuff
-      @meenah_talk MEENAH: you had to drag your stand over to the top of this tree
-      @meenah_talk MEENAH: like all waitin for me up here
-      @meenah_fish MEENAH: how long did that take
-      @aranea_angrytalk ARANEA: Never mind a8out that!
-      @aranea_madtalk ARANEA: And yes, I did stop along the way to explain some important things to people.
-      @aranea_annoyedtalk ARANEA: People are curious a8out information, Meenah. They want to KNOW things, alright?
-      @meenah_idle MEENAH: they want to know...
-      @meenah_happy MEENAH: or you want to tell them?
-      @aranea_angry ARANEA: 8oth!!!!!!!!
-      @meenah_idle MEENAH: ok lemme ask this
-      @meenah_talk MEENAH: did you pay them so you could explain stuff
+      @aranea_surprised ARANEA: Je...
+      @aranea_think ARANEA: Ne l’ai pas encore tout à fait trouvée.
+      @meenah_idle MEENAH: des indices ou
+      @aranea_idle ARANEA: Pas vraiment.
+      @aranea_talk ARANEA: Elle est apparemment très 8ien cachée !
+      @meenah_idle MEENAH: heu ouais surement
+      @meenah_idle MEENAH: mais
+      @meenah_talk MEENAH: est ce que tes vraiment allee chercher
+      @aranea_idle ARANEA: Hum...
+      @meenah_happytalk MEENAH: ou ta juste poissee ton temps a rien foutre avec ton ptit stand
+      @aranea_annoyedtalk ARANEA: J’ai divisé mon temps efficacement. Mais merci d’avoir demandé.
+      @meenah_talk MEENAH: en plus ce netait pas il y a si longtemps la derniere fois quon a parle dautres trucs ennuyeux
+      @meenah_talk MEENAH: tas meme du trimbuller ce stand en haut de cet arbre
+      @meenah_talk MEENAH: genre en attendant bien mon arrivee de la haut
+      @meenah_fish MEENAH: combien de temps ca tas pris 
+      @aranea_angrytalk ARANEA: Ce n’est pas important !
+      @aranea_madtalk ARANEA: Et oui, je me suis arrêtée en chemin pour expliquer des trucs importants aux gens.
+      @aranea_annoyedtalk ARANEA: Les gens sont friands d’informations, Meenah. Ils veulent CONNAÎTRE des choses, d’accord ?
+      @meenah_idle MEENAH: ils veulent savoir...
+      @meenah_happy MEENAH: ou tu veux leur dire ?
+      @aranea_angry ARANEA: Les deux !!!!!!!!
+      @meenah_idle MEENAH: ok laisse moi te demander
+      @meenah_talk MEENAH: est ce que tu les payes pour que tu puisses expliquer des trucs
       @aranea_annoyed ARANEA: ...
-      @aranea_annoyed ARANEA: Yes.
-      @aranea_facepalm ARANEA: SO????????
-      @meenah_annoyedtalk MEENAH: so how long would you estimate you spent cherub hunting in between your splainins
-      @aranea_annoyed ARANEA: I...
-      @aranea_madtalk ARANEA: Look. Finding this cheru8 was always going to 8e a slow 8urning quest. It is an intricate, layered mystery that can't 8e rushed. I'm working up to it!!!!!!!!
-      @meenah_talk MEENAH: aranea serket i have somefin to explain to you at no expense
-      @meenah_happytalk MEENAH: i find your humorously ineffective approach to this quest to be max adorbs
+      @aranea_annoyed ARANEA: Oui.
+      @aranea_facepalm ARANEA: ET ????????
+      @meenah_annoyedtalk MEENAH: donc dans ton planning a combien tu estimerais le temps passe a chercher des cherubins
+      @aranea_annoyed ARANEA: Je...
+      @aranea_madtalk ARANEA: Écoute. Trouver ce chéru8in allait forcément être une quête longue à en mourir. C’est un mystère complexe et entremêlé qui ne peut pas être résolu précipitamment. J’y travaille !!!!!!!!
+      @meenah_talk MEENAH: aranea serket jai quelque chose a te dire gratuitement
+      @meenah_happytalk MEENAH: je trouve que ton approche humoristiquement inefficace de cette quete est juste trop adorable
       @aranea_facepalm ARANEA: 
       <!--  -->
       </args>
