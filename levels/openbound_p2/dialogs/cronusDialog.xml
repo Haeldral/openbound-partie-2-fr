@@ -1,102 +1,102 @@
 <sburb description='cronus dialogs'>
 	<classes>
-		<action sprite='meenah' class='cronusTalk1' command='talk' name='Talk to Cronus.'><args>
-      @cronus_happytalk CRONUS: wvell vwell wvelvlw...
+		<action sprite='meenah' class='cronusTalk1' command='talk' name='Parle à Cronus.'><args>
+      @cronus_happytalk CRONUS: As-tu vwu le vwert wver allant wvevrws le wverre en wvevrwre vwert ?
       @meenah_annoyed MEENAH: ...
       @cronus_huh CRONUS: GLO8ES.
-      @meenah_annoyed:#38? MEENAH: wha
-      @cronus_bored CRONUS: i sawv you vwalking my vway, and i had this smooth line all ready to go.
-      @cronus_angry CRONUS: but for some reason i decided to open it vwith a tongue tvwister?
-      @cronus_upset2:#W's-are-hard#theyre-hard-and-no-one-understands#(V's-too) CRONUS: vwery nice ampora, starting your killer line with three consecutivwe 'W' vwords in a rowv.
-      @meenah_idle MEENAH: what uh
-      @meenah_talk MEENAH: was your killer pickup line goin to be
-      @meenah_annoyed:#no MEENAH: or should i ask
-      @cronus_bored:#just-nevwer-EVWEN CRONUS: sigh, nevwer evwen MIND, its so ruined nowv.
-      @cronus_talk CRONUS: i just sawv you strutting in my direction, vwith all of your impressivwe moxy and confidence, for the first time in, howv long?
-      @cronus_bored CRONUS: and i got a little excited. i vwas going to blowv you out of the vwater vwith that line, but, i guess nothings changed?
-      @meenah_idle MEENAH: guess not
-      @meenah_happytalk MEENAH: sounds like youre still the bard of tries too hard
-      @cronus_angry CRONUS: oh, nice. you alvways knewv howv to tvwist the fork.
-      @cronus_angry:#utensilkind CRONUS: actually, all you girls are quite adept at tvwisting your respectivwe utensils. 
-      @cronus_sad2 CRONUS: the guys too, now that i think about it. can i ask you a question? why do all you pretentious scenester types enjoy being so cruel to especially sensitivwe and artistic people?
-      @meenah_talk MEENAH: so i take it even after a billion sweeps here with a boat load of eligible spook shorties to mack on
-      @meenah_wink MEENAH: you still never got any action
-      @cronus_huh CRONUS: first you tvwist the fork, then you use it to pry into my personal life? thats really just so svwell of you, meenah.
-      @cronus_bored CRONUS: vwithout commenting specifically on that, (because seriously, VWHAT? so rude), i vwill say that it gets vwery frustrating after the first fewv epochs trying to make heads or tails vwhat people are evwen LOOKING for. i mean, in ANY quadrant.
-      @cronus_talk CRONUS: nowv, please don't tell anyone i said so, but you and i both knowv pretty much all these people should feel honored to go out vwith a guy like me. 
-      @cronus_smug:#you-should-be-sticking-your-fork-in-THAT CRONUS: vwhat being royalty and all, and not evwen slightly put off by dating dowvn on the spectrum. i mean, really, howv much more evwident can i make it to evweryone that im really a cool, progressivwe, easy going dude, vwho doesnt take the social order seriously or buy into any of the stereotypes? first of all, as if the hemospectrum scene isnt 8EYOND played out. 
-      @cronus_talk:#i-at-least-USED-to-listen-to-music-you-like#does-that-count? CRONUS: i barely EVWER evwen bring up my high social status. it couldnt be LESS of a big deal to me, but i think people maybe are still intimidated by it? theyre probably putting me on a pedestal, in spite of all my easy going assurances that my royal lineage is something i nevwer evwen think about. like, no friend, i am just like you. vwe laugh at the same jokes, listen to, vwell, to some extent, the same music...
-      @cronus_angry:#cats#kittens#freaks#rejects#broken CRONUS: all these cats and kittens, im telling you. theyre alvways drawvn to the freaks and rejects. you havwe to be 8ROKEN in some vway to get a little concupiscent attention.
-      @cronus_sad2:#sensitivwe#listens#poetry#music#there-for-them CRONUS: they nevwer seem to givwe the time of day to a guy vwhos sensitivwe, and listens to people, and sticks to his poetry and music, and i guess... just someone vwho tries to be there for them.
-      @cronus_happytalk CRONUS: hovwevwer, the bright side of my vwarious rejections is that is has helped me craft a privwate list of people vwho are objectivwely fucking terrible, vwhich id be happy to share vw...
-      @cronus_surprised CRONUS: meenah? vwhered you go?
-      @cronus_huh CRONUS: crud, she vwalked avway vwhile i vwas saying stuff.
-      @cronus_sad2 CRONUS: really blewv that one in record time.
+      @meenah_annoyed:#38? MEENAH: kwa
+      @cronus_bored CRONUS: je tai vwue approcher, et javwais cette phrase daccroche toute prete.
+      @cronus_angry CRONUS: mais bizarrement jai decide de commencer cette discussion avwec un vwirelangue ?
+      @cronus_upset2:#les-V-sont-durs#ils-sont-durs-et-personne-ne-comprend#(les-W-aussi) CRONUS: bravwo ampora, commencer la discussion avwec une phrase daccroche de la mort qui contient sept v consecutifs.
+      @meenah_idle MEENAH: quest ce que euh
+      @meenah_talk MEENAH: ta phrase daccroche de la mort allait etre
+      @meenah_annoyed:#non MEENAH: ou devrais je vraiment demander
+      @cronus_bored:#plus-AUCUNE CRONUS: soupir, oublie, ca na plus AUCUNE importance, cest foutu maintenant.
+      @cronus_talk CRONUS: je tai vwue te pavwaner dans ma direction, avwec ton courage imposant et ton assurance, pour la premiere fois depuis, combien de temps ?
+      @cronus_bored CRONUS: et je me suis un peu excite. jallais tout defoncer avwec cette phrase, mais, jimagine que rien na change ?
+      @meenah_idle MEENAH: je pense pas
+      @meenah_happytalk MEENAH: on dirait que tu es toujours le barde de jen fais trop
+      @cronus_angry CRONUS: oh, bien. tu as toujours su comment remuer la fourche dans la plaie.
+      @cronus_angry:#type:ustensile CRONUS: en fait, vwous les filles etes plutot douees pour remuer vwos ustensiles respectifs.
+      @cronus_sad2 CRONUS: les mecs aussi, maintenant que jy pense. je peux te poser une question ? pourquoi vwous autres stereotypes pretentieux aimez etre si cruels, specialement envwers les artistes sensibles ?
+      @meenah_talk MEENAH: donc si je comprends bien meme apraie un milliard de revolutions ici avec une cargaison de fantomes de mioches eligibles a la drague
+      @meenah_wink MEENAH: tu nes encore arrive a rien
+      @cronus_huh CRONUS: dabord tu remues la fourche, puis tu lutilises pour farfouiller dans ma vwie privwee ? cest vwraiment tres chic de ta part, meenah.
+      @cronus_bored CRONUS: sans faire plus de commentaires la dessus, (parce que franchement, SERIEUX ? cest tres impoli), je dirais que ca devwient tres frustrant apres les premieres eternites a essayer de comprendre ce que les gens RECHERCHENT. je vweux dire, dans NIMPORTE QUEL quadrant. 
+      @cronus_talk CRONUS: alors, sil te plait ne dis a personne ce que je vwais dire, mais toi et moi nous savwons que quasiment tous ces gens devwraient se sentir honores de sortir avwec quelquun comme moi.
+      @cronus_smug:#tu-devrais-fourrer-ta-fourche-la-DEDANS CRONUS: a quoi ca sert detre noble et tout, et de ne meme pas legerement rabaisser les gens avwec qui je sors alors quils sont situes plus bas sur le spectre. je vweux dire, serieusement, combien de preuvwes supplementaires dois je apporter pour que tout le monde voit que je suis un type vwraiment cool, progressiste, decontracte, qui ne prend pas lordre social au serieux ou qui ne croit en aucun stereotype ? dabord, comme si lhemospectrum netait pas PLUS que depasse. 
+      @cronus_talk:#en-tout-cas-j-ECOUTAIS-les-musiques-que-tu-aimes#est-ce-que-ca-compte-? CRONUS: je nai meme JAMAIS vwraiment evwoque mon haut statut social. ce nest PAS important pour moi, mais je pense que les autres sont peut etre toujours intimides par ca ? ils me mettent surement sur un piedestal, en depit de toutes mes garanties sur le fait que ma noble lignee est une chose a laquelle je ne pense jamais vwraiment. genre, non mon pote, je suis comme vwous, on rit aux memes blagues, on ecoute, enfin, en general, les memes musiques...
+      @cronus_angry:#chats#chatons#tares#rejets#brise CRONUS: tous ces chats et chatons, je te le dis. ils sont toujours attires par les tares et les rejetes. tu dois etre 8RISE dune quelconque facon pour avwoir un peu dattention concupiscente. 
+      @cronus_sad2:#sensible#ecoute#poesie#musique#la-pour-eux CRONUS: ils ne semblent jamais accorder ne serait ce quune journee a un type sensible, qui ecoute les gens, et qui reste fidele a sa poesie et sa musique, et jimagine… quelquun qui essaye seulement detre la pour eux.
+      @cronus_happytalk CRONUS: toutefois, le bon cote de mes nombreux rejets est que ca ma aide a creer une liste privwee des gens qui sont objectivwement atroces, que je serais heureux de partager avw...
+      @cronus_surprised CRONUS: meenah? ou es tu passee ? 
+      @cronus_huh CRONUS: merde, elle est partie pendant que je disais des trucs.
+      @cronus_sad2 CRONUS: jai tout foire en un temps record
       </args>
 </action>
 
 
-<action sprite='meenah' class='cronusTalk2' command='talk' name='Ask Cronus to join.'><args>
-      @meenah_annoyed MEENAH: gonna make this quick
-      @meenah_annoyedtalk MEENAH: and this aint like a diving board for you to launch off about your feelins and romprobs
-      @meenah_annoyedtalk MEENAH: just gimme a straight answer
-      @meenah_fish:#yolo#even-though#you-can-die-twice??#w/e MEENAH: im gettin a posse together to kill an invincible monster you want in y//n
-      @cronus_happytalk CRONUS: vwhoa, NICE. just got here, and youre already going diabolical, thats the tops.
-      @cronus_talk CRONUS: id lovwe to help. you knowv howv i lovwe to help out, and be there for attractivwe people. thats kind of my thing?
-      @cronus_idle CRONUS: but...
-      @meenah_wut2 MEENAH: ugh here we go
-      @cronus_upset2 CRONUS: meenah, i just dont think im in that kind of space nowv in my life. or afterlife, i mean.
-      @meenah_wut MEENAH: what space
-      @cronus_upset2:#grease-my-hair CRONUS: an aggressivwe space. ivwe been trying to cool it, be more introspectivwe, search my feelings, vwork on my music.
-      @cronus_upset2 CRONUS: i dont think id be much good in a fight. ivwe been trying to get in touch vwith vwho, or i guess vwhat, i really am, and i think ivwe been making some nice breakthroughs.
-      @cronus_upset CRONUS: im telling you this in confidence, but i think im approaching a kind of avwakening, especially since i first started learning about humans. i think i actually might be...
-      @meenah_annoyed MEENAH: nope
-      @meenah_wut:#uh-uh MEENAH: nope nope nope nopenopenope
-      @meenah_annoyedtalk MEENAH: stop saying whatever that was do not care
-      @cronus_bored CRONUS: youre right, i shouldnt burden you vwith my problems.
-      @cronus_talk:#by-vwhich-i-mean-twvo-people-vwho-freely-engage-in-sexual-intercourse CRONUS: forget i said anything. i vwouldnt vwant to compromise our friendship, not evwen to speak of the potential for us to devwelop into something more than just friends.
-      @cronus_happytalk CRONUS: oh, RIGHT. you asked me howv my music vwas going these days, didnt you?
-      @meenah_idle MEENAH: no
-      @cronus_smug:#if-not-my-signature-shape-at-the-vwery-least CRONUS: its going pretty nicely, i think. been messing vwith dual sawvtooth vwavweforms, i think i really could be hitting on my signature sound.
-      @cronus_idle CRONUS: here, listen to this track. i vwrote it in anticipation of your arrivwal.
+<action sprite='meenah' class='cronusTalk2' command='talk' name='Demande à Cronus de se joindre à toi.'><args>
+      @meenah_annoyed MEENAH: je vais etre breve
+      @meenah_annoyedtalk MEENAH: et ce ne sera pas un genre de plongeoir pour que tu te lances dans tes problemes romantiques
+      @meenah_annoyedtalk MEENAH: donne moi une raieponse claire
+      @meenah_fish:#yolo#meme-si#tu-peux-mourir-une-deuxieme-fois-??#peu-importe MEENAH: je cree une equipe pour tuer un monstre invincible tu nous rejoins o//n
+      @cronus_happytalk CRONUS: vwouah, SUPER. tu vwiens darrivwer, et tu es deja diabolique, cest genial.
+      @cronus_talk CRONUS: jaimerai aider. tu sais a quel point jaime aider, et etre la pour les personnes attirantes. cest un peu mon truc ?
+      @cronus_idle CRONUS: mais...
+      @meenah_wut2 MEENAH: argh sar y est
+      @cronus_upset2 CRONUS: meenah, je ne pense pas que je sois toujours dans cette periode de ma vwie. ou dapres vwie, en fait.
+      @meenah_wut MEENAH: quelle periode
+      @cronus_upset2:#graisser-mes-cheveux CRONUS: une periode aggressivwe. jai essaye de me calmer, detre plus introspectif, chercher mes sentiments, travwailler ma musique. 
+      @cronus_upset2 CRONUS: je ne pense pas que je serais tres utile en combat. jai essaye dentrer en contact avwec qui, ou plutot quoi, je suis vwraiment, et je pense que jai fait de bons progres.
+      @cronus_upset CRONUS: je te dis cela en toute confiance, mais je pense que je suis proche dun genre devweil, surtout depuis que jai commence a etudier les humains. je pense quen fait je pourrais etre...
+      @meenah_annoyed MEENAH: nan
+      @meenah_wut:#non-non MEENAH: nan nan nan nannannan
+      @meenah_annoyedtalk MEENAH: arete de parler peu importe ce que cest je ne veux pas savoir
+      @cronus_bored CRONUS: tu as raison, je ne devwrais pas t’accabler de mes problemes.
+      @cronus_talk:#par-ca-je-veux-dire-deux-personnes-qui-sengagent-librement-dans-une-relation-sexuelle CRONUS: oublie ce que je vwiens de dire. je ne vwoudrais pas nuire a notre amitie, sans parler de la possibilite que nous devweloppions quelque chose de plus quune simple amitie. 
+      @cronus_happytalk CRONUS: oh, CEST VWRAI. tu mavwais demande comment se porte ma musique ces derniers jours, nest ce pas ?
+      @meenah_idle MEENAH: non
+      @cronus_smug:#ou-au-moins-lapparence-de-ma-signature CRONUS: ca marche plutot bien, je crois. jai expérimenté avec les doubles ondes en dents de scie, je pense que je pourrais devwelopper ma propre signature sonore.
+      @cronus_idle CRONUS: tiens, ecoute ce morceau. je lai ecrit en anticipant ton arrivwee.
       @cronus_idle~dialogimg_cronus1 CRONUS:
-      @meenah_annoyed MEENAH: not clickin that
-      @cronus_upset CRONUS: um, i see. then, vwhat about...
+      @meenah_annoyed MEENAH: je cliquerai pas dessus
+      @cronus_upset CRONUS: um, je vwois. alors, que penses tu de... 
       @cronus_idle~dialogimg_cronus2 CRONUS:
-      @meenah_annoyed MEENAH: nah
+      @meenah_annoyed MEENAH: nan
       @cronus_smug~dialogimg_cronus3 CRONUS:
-      @meenah_wut:#creep MEENAH: ew
-      @cronus_huh CRONUS: vwait... i probably shouldnt havwe showvn you those. ok, hold on. i knowv i havwe something here youll dig.
+      @meenah_wut:#pervert MEENAH: beurk
+      @cronus_huh CRONUS: attends… je naurais probablement pas du te montrer celles ci. ok, attends. je sais que jai quelque chose qui vwa te plaire.
       @cronus_happy~dialogimg_cronus4 CRONUS:
-      @meenah_talk MEENAH: so that was a no to my invite then
-      @meenah_talk MEENAH: which got rescinded halfway thru this convo anyways
-      @meenah_talk MEENAH: time to jet before before you sketch me out some more crotimes
+      @meenah_talk MEENAH: donc cetait un non pour mon invitation alors
+      @meenah_talk MEENAH: qui a reflue au milieu de cette conversation de toutes facons  
+      @meenah_talk MEENAH: il est leurre de senvoilier avant que tu me mettes mal a laise avec dautres crompositions 
       </args>
 </action>
 
 
-<action sprite='meenah' class='cronusTalk3' command='talk' name="Where's Karkat?"><args>
-      @cronus_huh CRONUS: oh, the vwantas lookalike?
-      @cronus_bored:#barely-evwen-had-the-chance-to-hit-on-him#so-rude CRONUS: yeah he came by this vway. i tried to start a friendly convwersation vwith him, but he just flipped me off and locked himself in that hivwe up there.
-      @cronus_upset2 CRONUS: looks like he conjured the memory of some sort of complicated puzzle door from some ancient ruins. i tried to open it but it looks totally impossible. the kid sure knovws howv to givwe a guy the cold shoulder.
-      @cronus_idle CRONUS: vwhat do you vwant vwith him anyvway?
-      @meenah_annoyed MEENAH: nofin bye
-      @cronus_huh CRONUS: ah. i see howv it is. cronus gets the shaft, vwhile you scurry avway to flirt vwith some infantile loudmouth. vwhy am i not surprised?
-      @cronus_angry CRONUS: guess im neither mentally unstable or a big enough asshole to catch your eye. no big deal, ill just record my feelings on the subject through a bit of slam poetry and bubble my sorrowvs throughout the... and, yep. looks like im talking to myself again. shes gone.
+<action sprite='meenah' class='cronusTalk3' command='talk' name="Où est Karkat?"><args>
+      @cronus_huh CRONUS: oh, celui qui ressemble a vwantas ?
+      @cronus_bored:#jai-a-peine-eu-loccasion-de-le-draguer#tres-grossier CRONUS: ouais il est passe par la. jai essaye de commencer une convwersation amicale avwec lui, mais il ma fait un doigt et sest enferme dans son nid la bas.
+      @cronus_upset2 CRONUS: on dirait quil a invwoque le souvwenir dun genre de porte puzzle compliquee du style ruines antiques. jai essaye de louvwrir mais ca semblait absolument impossible. le gamin sait faire des accueils glacials aux gens.
+      @cronus_idle CRONUS: quest ce que tu lui vweux dabord ?
+      @meenah_annoyed MEENAH: rien au revoir
+      @cronus_huh CRONUS: ah. je vwois ce qui se passe. cronus se fait rouler, pendant que tu pars draguer la grande gueule puerile. pourquoi ne suis je pas surpris ?
+      @cronus_angry CRONUS: jimagine que je ne suis ni assez mentalement instable, ni un assez gros connard pour attirer ton attention. pas gravwe, je vwais enregistrer mes sentiments sur le sujet avwec un peu de slam et buller mes deconvwenuespartout dans… et, ouaip. il semblerait que je me parle encore a moi meme. elle est partie.
       </args>
 </action>
 
-<action sprite='meenah' class='cronusTalk4' command='talk' name='Be Cronus.'><args>
-      @! Ew, no. There's not a snowbubble's chance in monster hell you're being this guy.
+<action sprite='meenah' class='cronusTalk4' command='talk' name='Deviens Cronus.'><args>
+      @! Beurk, non. Il neigera en enfer pour que vous deveniez ce type.
       </args>
 </action>
 
 
 <!--@ CRONUS AFTER MEENAH RETURNS-->
 
-<action sprite='meenah' class='cronusTalk5' command='talk' name='Talk to Cronus.'>
+<action sprite='meenah' class='cronusTalk5' command='talk' name='Parle à Cronus.'>
 	<args>
-      @meenah_annoyed MEENAH: nope
+      @meenah_annoyed MEENAH: non
   </args>
 </action>
 
