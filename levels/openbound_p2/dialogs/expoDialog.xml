@@ -42,22 +42,23 @@
 
 
 
-<action class='expoTalk1' command='talk' name='Tell me about Cronus Ampora.'>
+<action class='expoTalk1' command='talk' name='Parle-moi de Cronus Ampora.'>
       <args>
-      @aranea_happytalk ARANEA: The 8ard of Hope may seem a little jaded these days, 8ut he once had a deeply a8iding faith in magic, and dedicated himself to 8ecoming a great wizard. He 8ecame convinced he was hatched to defeat an extraordinarily evil magician, one he swore the angels foretold of. Though when pressed for the name of the man, he would not say it, claiming it was too dangerous to even enunciate. Part of his self-aggrandizing mythos was that this magician once somehow from afar tried to strike him down at a young age, so he would never have to face him. 8ut the evil spell was deflected, sealing the magician's spirit away in a series of unassuming vessels until he could find some other cunning way to enter our universe. The attack supposedly left him with his distinctive scar, which he was not reluctant to point out when trying to hit on me. Uh, I mean, he wasn't reluctant to mention it in casual conversation.
-      @aranea_happytalk ARANEA: 8ut at some point he 8ecame disillusioned with magic. If there ever was any truth to his far fetched vision, the legacy of defeating the evil magician would have to 8e passed on to his descendant, or if his descendant proved to 8e as much of a failure as he did, then perhaps on to some other Hero of Hope. I'm unsure why he suffered this crisis of faith, aside from the o8vious reasons having to do with an overall lack of character, or any other redeeming qualities. Perhaps someone talked him out of his 8eliefs. May8e a friend close to him. Or, if one is to 8elieve his fantasy held any water, perhaps someone who was in league with the evil magician. Whatever the case, it was pro8a8ly for the 8est, since pretty much everyone who had half a think pan thought it was all a 8unch of ridiculous nonsense.
-      @meenah_talk MEENAH: serket why do you got to hate on other peoples religions
-      @meenah_fish MEENAH: dont you kno they just as much a load of crackpotty bunk as all your spiritual bullfuck
-      @aranea_surprised ARANEA: 8ut I........
-      @aranea_think ARANEA: Yes, I guess I was out of line. 
-      @aranea_madtalk ARANEA: Sorry, I was just trying to riff with you little on a mutually disliked acquaintance. Is that really so 8ad? Why do you have to take every opportunity to knock my personal 8eliefs?
-      @aranea_annoyed ARANEA: You can really 8e so mean sometimes.
-      @meenah_idle MEENAH: can i have my money now
-      @aranea_angry ARANEA: Yes. Here.
+      @aranea_happytalk ARANEA: Le 8arde de l’Espoir peut sem8ler un peu 8lasé ces jours-ci, mais il a autrefois eu une foi profondément dura8le en la magie, et s’était voué à devenir un grand sorcier. Il était convaincu qu’il avait éclos pour vaincre un magicien dia8olique, il jurait que les anges l'avaient prédit. Mais quand on insistait pour connaître le nom de cette personne, il refusait de le dire, affirmant que c’était trop dangereux ne serait-ce que de le prononcer. Une partie de son mythe auto-glorificateur contait que ce magicien tenta de l’a8attre à distance lors de son plus jeune âge, pour qu’il n'ait jamais à devoir l’affronter. Mais le sort maléfique fut dévié, scellant l’esprit du magicien ailleurs, dans plusieurs modestes réceptacles, jusqu'à ce qu’il puisse trouver d’autres ruses pour entrer dans notre univers. L’attaque lui a soi-disant laissé sa remarqua8le cicatrice, qu’il n’hésite pas à me montrer quand il essaie de me draguer. Euh, je veux dire, il n’hésite pas à la mentionner lors de ses conversations ordinaires.
+      @aranea_happytalk ARANEA: Mais un jour, il s’est désillusionné de la magie. Si jamais il y avait eu une part de vérité dans son histoire à dormir de8out, sa destinée de vaincre le magicien dia8olique aurait été transmise en héritage à son descendant, ou si son descendant se révélait être le même échec qu’il l’a été, alors l’aurait-elle été à d’autres Héros de l’Espoir. Je ne suis pas sûre de ce qui a causé cette perte de foi, mis à part les raisons évidentes liées à son manque total de personnalité, ou toute autre qualité rédemptrice. Peut-être que quelqu’un l’a 8ousculé dans ses croyances. Peut-être un ami proche. Ou, si ses fantasmes tenaient la route, peut-être quelqu’un du côté du magicien dia8olique. Peu importe la cause, c’était pro8a8lement pour le mieux, puisque à peu près tous ceux ayant la moitié d’un ci8oulot pensaient que ce n’était qu’un tas d’a8surdités.
+      @meenah_talk MEENAH: serket pourquoi tu te sens eaubligee de detester les religions des autres
+      @meenah_fish MEENAH: tu sais pas que ce sont daussi gros tas didioties que toutes tes conneries spirituelles 
+      @aranea_surprised ARANEA: Mais je........
+      @aranea_think ARANEA: Oui, je pense que je suis allée trop loin.
+      @aranea_madtalk ARANEA: Désolée, j'essayais simplement de me moquer un peu avec toi d’une connaissance qui n’est appréciée par aucune de nous. Est-ce vraiment mal ? Pourquoi dois-tu profiter de chaque opportunité pour critiquer mes convictions personnelles ?
+      @aranea_annoyed ARANEA: Ce que tu peux être méchante des fois.
+      @meenah_idle MEENAH: je peux avoir mon fric maintenant
+      @aranea_angry ARANEA: Oui. Tiens.
       <!--  -->
       </args>
       <action command='setGameState'>expo,true</action>
 </action>
+
 
 
 <action class='expoTalk2' command='talk' name='Tell me about Mituna Captor.'>
@@ -76,26 +77,27 @@
 
 
 
-<action class='expoTalk3' command='talk' name='Tell me about Kurloz Makara.'>
+<action class='expoTalk3' command='talk' name='Parle-moi de Kurloz Makara.'>
       <args>
-      @aranea_happytalk ARANEA: Prince of Rage actually used to 8e quite talkative. That is, until he had a nightmare which prompted a 8izarre incident, after which he would never speak again. He took a sort of spiritual vow of silence, which I'm sure was pro8a8ly related to his esoteric faith. Thereafter he 8ecame infuriatingly enigmatic. I've found it impossi8le to get any info out of him, 8etween his am8iguous mimes and penchant for riddles. It's very frustrating, especially for someone like me, who has a passion for gathering as many facts a8out our story as possi8le.
-      @aranea_annoyedtalk ARANEA: Want to know a secret? Please don't tell anyone, 8ut I really can't stand the guy.
-      @aranea_talk ARANEA: It's pro8a8ly unfair to him 8ecause he is o8viously such a sweet and harmless fellow. 8ut something a8out him ru8s me the wrong way. I guess I can just 8e a little petty sometimes. 
-      @meenah_idle MEENAH: yeah...
-      @meenah_wut MEENAH: wow serket
-      @meenah_annoyed MEENAH: just wow so rude
-      @meenah_fish MEENAH: poor clown
-      @aranea_angrytalk ARANEA: Don't give me that! I seem to remem8er you having more than a few unkind words for him 8ehind his 8ack.
-      @meenah_creepy MEENAH: yeah im messin witchu he sux
-      @meenah_idle MEENAH: so
-      @meenah_idle MEENAH: conversation over?
-      @aranea_happy ARANEA: Yes.
+      @aranea_happytalk ARANEA: Le Prince de la Fureur était en fait plutôt 8avard jadis. Et ce jusqu’à ce qu’il fasse ce cauchemar qui a déclenché un incident étrange, après quoi il n’a plus jamais parlé. Il a fait une sorte de voeu de silence spirituel, qui, j’en suis sûre, était pro8a8lement lié à sa religion ésotérique. Par la suite il devint terri8lement énigmatique. Je n’ai jamais pu lui tirer les vers du nez, entre ses mimes am8igus et son penchant pour les énigmes. C’est très frustrant, surtout pour quelqu’un comme moi, qui a une passion pour rassem8ler autant de faits sur notre histoire que possi8le.
+      @aranea_annoyedtalk ARANEA: Je peux te confier un secret ? S'il te plaît ne le dit à personne, mais je ne peux vraiment pas supporter ce type.
+      @aranea_talk ARANEA: C’est pro8a8lement injuste pour lui car il est certainement quelqu’un de 8on et d’inoffensif. Mais quelque chose chez lui me donne un mauvais pressentiment. J’imagine qu’il m’arrive d’être un peu mesquine parfois.
+      @meenah_idle MEENAH: ouais...
+      @meenah_wut MEENAH: ouah serket
+      @meenah_annoyed MEENAH: ouah tes vraiement insoleante
+      @meenah_fish MEENAH: pauvre poisson clown
+      @aranea_angrytalk ARANEA: Attends un peu ! Il me sem8le me souvenir que tu as toi-même dit plus que quelques méchancetés dans son dos.
+      @meenah_creepy MEENAH: ouais je decornet il craint
+      @meenah_idle MEENAH: donc
+      @meenah_idle MEENAH: conversation terminee ?
+      @aranea_happy ARANEA: Oui.
       @meenah_annoyed MEENAH: ka
       @meenah_annoyed MEENAH: ching
       <!--  -->
       </args>
       <action command='setGameState'>expo,true</action>
 </action>
+
 
 
 
