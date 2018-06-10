@@ -61,15 +61,15 @@
 
 
 
-<action class='expoTalk2' command='talk' name='Tell me about Mituna Captor.'>
+<action class='expoTalk2' command='talk' name='Parle moi de Mituna Captor.'>
       <args>
-      @aranea_happytalk ARANEA: The Heir of Doom was once a powerful psionic. He was gifted with vision twofold, and had strong prophetic insights wherever a 8leak future was concerned. He had much to say when it came to warning us a8out the path of doom and destruction we were all headed for, 8ut no one took him very seriously. 8ut one day he lost all those a8ilities when he 8adly overexerted himself. It's hard to get any specifics from him, 8ut indications are that he applied every last 8it of energy he had toward some great act of heroism, saving us all from some looming threat. Not only did his exertion permanently 8urn out his psychic a8ilities, 8ut it left him somewhat... er. Incoherent.
-      @meenah_talk MEENAH: yeah i always wondered what happened there
-      @meenah_talk MEENAH: anyone ever get to the bottom a that
-      @aranea_talk ARANEA: No. The entire incident is shrouded in mystery. From his limited and scattered accounts of what happened, it seems very likely that Kurloz was with him at the time, as the only eye witness. And of course it's impossi8le to get any relia8le information out of him. I guess we may never know, sadly.
-      @meenah_talk MEENAH: hey this was actually kinda interesting
-      @meenah_meenah_creepylaughidle MEENAH: it was W-ELL worth taking the money youre givin me to put up with it
-      @aranea_happier ARANEA: Agreed! ::::D
+      @aranea_happytalk ARANEA: L'Héritier du Destin fut autrefois un puissant psionique. Il avait le don de dou8le-vue, et avait de puissantes visions prophétiques à chaque fois qu’un avenir som8re était en jeu. Il avait 8eaucoup à dire quand il s’agissait de nous avertir de la fatalité et de la destruction qui nous attendait tous, mais personne ne le prenait vraiment au sérieux. Mais un jour il perdit toutes ses capacités quand il les suremploya violemment. Il est difficile d'o8tenir des précisions de sa part, mais il sem8lerait qu'il ait rassem8lé ses dernières forces pour accomplir un grand acte d'héroïsme, nous sauvant tous d’une menace imminente. Non seulement cet effort a, de façon permanente, détruit ses capacités psychiques, mais cela l’a aussi laissé comment dire… hum. Incohérent.
+      @meenah_talk MEENAH: ouais je me suis toujours demande ce qui etait arrive 
+      @meenah_talk MEENAH: quelquun a fini par decouvrir le fin mot de cette histoire ?
+      @aranea_talk ARANEA: Non. L’intégralité de l’accident est drapée de mystère. D’après ses témoignages limités et dispersés à propos de ce qui s’est passé, il sem8le très pro8a8le que Kurloz ait été avec lui à ce moment-là, en tant que seul témoin oculaire. Et 8ien évidemment, il est impossi8le d’avoir une seule information fia8le venant de lui. Je suppose que nous ne le saurons jamais, malheureusement.
+      @meenah_talk MEENAH: eh cetait plutot interessant en fait
+      @meenah_meenah_creepylaughidle MEENAH: ca valait VRAIM-ENT le coup de prendre largent que tu mas donne pour tavoir ecoutee
+      @aranea_happier ARANEA: 8ien d’accord ! ::::D
       <!--  -->
       </args>
       <action command='setGameState'>expo,true</action>
@@ -101,16 +101,16 @@
 
 
 
-<action class='expoTalk4' command='talk' name='Tell me about Meulin Leijon.'>
+<action class='expoTalk4' command='talk' name='Parle moi de Meulin Leijon.'>
       <args>
-      @aranea_happytalk ARANEA: Mage of Heart as you know is an ardent disciple of the romantic sciences. She has a well earned reputation as a miracle worker when it comes to match making. 8ut her own romantic history ironically has 8een riddled with trou8le and heart8reak.
-      @aranea_happytalk ARANEA: Once, well 8efore our session 8egan, she and Kurloz were in a very loving matespritship. It really seemed to everyone they were made for each other. One day, they fell asleep together. Kurloz then had a nightmare so terrifying, he released the most dreadful sound imagina8le. It truly echoed the horror of the Vast Honk itself. The noise was so loud and so awful, Meulin went completely deaf, and her hearing never recovered. Kurloz was undou8tedly devastated 8y what he'd done to her. He was so distraught, he sewed his mouth shut, and has never spoken a word since.
-      @aranea_happytalk ARANEA: Though they drifted apart as matesprits, Meulin never held it against him, and even seemed to take delight in learning new ways to communicate. They continued to remain very close to this day. May8e a little too close, if you ask me. It's clear that her sympathies have 8een gradually swayed in support of the High8lood's cult. She stays private a8out her 8eliefs, 8ut now and then I'll notice she lets some tenet of mirthful doctrine slip out. I suppose I shouldn't 8e too concerned though, since it's almost certainly a lot of harmless superstition.
+      @aranea_happytalk ARANEA: La Mage du Coeur comme tu le sais est une disciple enflammée des sciences romantiques. Elle a une réputation 8ien méritée en tant que faiseuse de miracle quand il s’agit de former des couples. Mais sa propre histoire romantique est ironiquement remplie de trou8les et de coeurs 8risés.
+      @aranea_happytalk ARANEA: 8ien avant que notre session commence, elle et Kurloz étaient engagés dans une relation de moitiespricité très aimante. Il sem8lait évident pour tout le monde qu’ils étaient faits l’un pour l’autre. Un jour, ils se sont endormis ensem8le. Kurloz a alors fait un cauchemar si terrifiant qu’il lâcha le son le plus épouvanta8le que l’on puisse imaginer. On aurait vraiment dit l’écho du Vast Honk lui-même. Le cri était tellement fort et horri8le que Meulin devint complètement sourde, et son ouïe n’est jamais revenue. Kurloz était indu8ita8lement dévasté par ce qu’il lui avait fait. Il était tellement égaré qu’il s’est cousu la 8ouche, et qu’il n’a plus dit un mot depuis.
+      @aranea_happytalk ARANEA: 8ien qu’ils ne soient plus moitiesprits, Meulin n’a jamais rejeté la faute sur lui, et elle sem8lait même prendre du plaisir à apprendre de nouvelles façons de communiquer. Ils sont restés très proches l’un de l’autre. Peut-être un peu trop proches, si tu veux mon avis. Il est clair que son opinion a été progressivement influencée au profit du culte du No8lesang. Elle reste discrète quant à ses croyances, mais çà et là, je remarque qu’elle laisse échapper quelques fragments de doctrine miraculeuse. Je suppose que je ne devrais pas trop m’en soucier, car il ne s’agit pro8a8lement que de quelques superstitions inoffensives.
       @meenah_creepy MEENAH: )(ONK
-      @aranea_happier ARANEA: Honk honk! ::::)
-      @meenah_happytalk MEENAH: lol im glad we can both agree that clowny fuckin soda cult is the dumbest shit ever
-      @aranea_happy ARANEA: Yes. Now here is your money. Thanks for listening!
-      @meenah_happytalk MEENAH: serks do you even know how silly yall are
+      @aranea_happier ARANEA: Honk honk ! ::::)
+      @meenah_happytalk MEENAH: mdr jsuis heureuse quon puisse se mettre daccord sur le fait que le culte du putain de soda clownesque est la merde la plus stupide de tous les temps
+      @aranea_happy ARANEA: Oui. Maintenant voilà ton argent. Merci d’avoir écouté !
+      @meenah_happytalk MEENAH: serk tu sais au moins a quel point zetes tous stupides
       @meenah_happy MEENAH: &lt;3
       <!--  -->
       </args>
