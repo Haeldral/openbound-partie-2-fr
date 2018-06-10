@@ -117,22 +117,22 @@
       </args>
 </action>
 
-<action sprite='kurloz' class='meulinTalk3' command='talk' name='Talk to Meulin.'>
+<action sprite='kurloz' class='meulinTalk3' command='talk' name='Parle à Meulin'>
       <args>
       @kurloz_bye KURLOZ: :o) 
-      @meulin_wut MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; WHEW...
-      @meulin_wut MEULIN: (^./_.^) &lt; KURZORZ, MY HEAD F33LS REALLY FOGGY.
-      @meulin_wut:#DID-WE-JUST-TOKE-ON-SOME-BAD-NIP-OR-SOMETHING? MEULIN: (^./_.^) &lt; WHAT JUST HAPPENED? I DON'T EVEN REMEMBER WALKING OVER HERE.
+      @meulin_wut MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; PFIOU...
+      @meulin_wut MEULIN: (^./_.^) &lt; KURZORZ MIA TETE EST TOUTE EMBROUILL33.
+      @meulin_wut:#EST-CE-QUON-VIENT-JUSTE-DE-SE-PRENDRE-DE-LHERBE-A-CHAT-FRELAT33-OU-QUOI-? MEULIN: (^./_.^) &lt; QU’EST-CE QUI VIENT DE SE PASSER ? JE NE ME SOUVIENS MEME PAS D’ETRE VENUE JUSQU’ICI.
       @kurloz_mime1~kurmeme6:#:o)  
-      @meulin_laugh MEULIN: (=^ω^=) &lt; H33H33H33!!! YOU'RE RIGHT, I SHOULDN'T WORRY ABOUT IT.
+      @meulin_laugh MEULIN: (=^ω^=) &lt; H33H33H33 !!! TU AS RAISON, JE NE DEVRAIS PATTE M’INQUIETER DE CHAT.
       @meulin_mime4~meme15  
       @kurloz_mime2~kurmeme7:#:o)  
       @meulin_mime5~meme16  
       @kurloz_mime3~kurmeme8:#:o)  
       @meulin_mime3~meme17  
       @kurloz_bye KURLOZ: :o) 
-      @meulin_wut MEULIN: ~(=^‥^) &lt; WHAT'S THAT? YOU HAVE TO GO RUN AN ERRAND?
-      @meulin_happy MEULIN: (=^-ω-^=) &lt; OK33DOK33, HAVE FUN!
+      @meulin_wut MEULIN: ~(=^‥^) &lt; QU’EST-CE QU’IL Y A ? TU DOIS ALLER FAIRE UN TRUC ?
+      @meulin_happy MEULIN: (=^-ω-^=) &lt; OKIDOKI, AMUSE-TOI BIEN !
       @kurloz_smile~kurmeme9 
       <!--  -->
       </args>
