@@ -1,17 +1,17 @@
 <sburb description='meenah dialogs'>
 	<classes>
-		<action sprite='mituna' class='meenahTalk1' command='talk' name='Talk to Meenah.'><args>
-      @meenah_talk MEENAH: dogg before you even start with your junk i just wanna point out i can barely understand a word you say
-      @mituna_sad%alttextbox_4chan MITUNA: 1M 50RRY
-      @meenah_talk MEENAH: like between your codawful quirk
-      @meenah_talk MEENAH: and your variety of weird conflicting speech impediments
-      @meenah_talk MEENAH: and the fact that even aside from all the shitty numbers you stick in words youre still misspellin half a what you say
-      @meenah_fish:#give-STRAIT-the-fuck-up-yo#uncle-motherglubber MEENAH: i just gtfu
-      @mituna_angry%alttextbox_4chan MITUNA: 817H1CH WH4Y D0N7 Y0U 5H00V3 M0Y R4D 1NJURJY P4N3L 1N7H0 URR N457H7Y 53XXXU4L3 PR1V457 P4R7H 0RF P3R3RF3R3R4NC3
-      @meenah_annoyedtalk:#way-minor-character-yo MEENAH: thank fuck you were never a major playa at least from my personal vantage over the course a this ridicu huge narrative
-      @meenah_annoyedtalk:#really-too-bad-since-you-got-the-bestest-fishiest-name-of-anyone#38( MEENAH: probably woulda offed my shellf even schooner if i had to hear you talk much
+		<action sprite='mituna' class='meenahTalk1' command='talk' name='Parle à Meenah.'><args>
+      @meenah_talk MEENAH: mec avant meme que tu commences avec ta merde je vais juste te dire que je comprends a peine ce que tu dis
+      @mituna_sad%alttextbox_4chan MITUNA: D350L3
+      @meenah_talk MEENAH: genre entre ton cabillaurible quirk
+      @meenah_talk MEENAH: et tous tes problemes delocutions conflictuels
+      @meenah_talk MEENAH: et le fait quen plus de tous les chiffres de merde que tu mets dans tes mots tu epelles mal la moitie de ce que tu dis
+      @meenah_fish:#jaBANCdonne-yo#fils-de-glub MEENAH: jabandonne tout simplement
+      @mituna_angry%alttextbox_4chan MITUNA: 54L0PP33 P0URQU01 7HU M3777R4H1 P45 M4 R4DHR4D10GRH4PH113 D4N5 7335 V1L4H1N355 P4R71335 1N71M35
+      @meenah_annoyedtalk:#un-joueur-tellement-secondaire-yo MEENAH: dieu merci tas jamais ete un joueur important au moins de mon point de vue sur le deroulement de cette narration ridiculement longue
+      @meenah_annoyedtalk: MEENAH: je me serais preaubablement tue bien plus tot si j'avais eu à tentendre perler plus    
       @mituna_idle%alttextbox_4chan MITUNA: ..,.,..,,...,..,.,.
-      @mituna_sad%alttextbox_4chan MITUNA: 50RRY
+      @mituna_sad%alttextbox_4chan MITUNA: D350L3
       <!--  -->
 		</args></action>
 		
