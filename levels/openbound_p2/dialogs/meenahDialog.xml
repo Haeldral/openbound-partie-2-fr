@@ -17,126 +17,126 @@
 		
 		<!--@ MEENAH AFTER MEENAH RETURNS-->
 
-<action sprite='cronus' class='meenahTalk2' command='talk' name='Talk to Meenah.'><args>
-      @meenah_annoyedtalk MEENAH: yo that was some scuzzy repartee there even for you crodog
-      @cronus_angry CRONUS: the last thing my feelings need is your harsh judgment. i just cant handle that, on top of evwerything else youvwe done to me.
-      @meenah_wut MEENAH: what the fuck else i done to you??
-      @cronus_sad CRONUS: you ignored me.
-      @meenah_wut2 MEENAH: ugh
-      @cronus_upset2 CRONUS: this is serious. please dont dismiss my emotions like that.
-      @cronus_talk:#eh?#ehhhh? CRONUS: look, i havwe an especially tortured and confused sole. i reelly cant afjord anemone more greef from you.
-      @meenah_annoyed MEENAH: i cannot
-      @meenah_annoyed MEENAH: B-ELI-EV-E
-      @meenah_annoyed MEENAH: you are doing my fish pun thing while youre still tryin to hit on me
-      @cronus_bored CRONUS: nyeh. vworth a shot.
-      @meenah_angrytalk MEENAH: dont ever say a fish thing again or ill gut you
-      @cronus_huh CRONUS: you knowv, youre being a bit hypocritical here, dont you think?
-      @meenah_idle MEENAH: what
-      @cronus_talk CRONUS: taking me to task for ripping captor a sorely deservwed newv nook.
-      @cronus_smug CRONUS: like you arent evwen more guilty of abusing the poor fella.
-      @meenah_fishtalk MEENAH: youre such a glubbin liar
-      @cronus_smug CRONUS: oh am i?
-      @cronus_happytalk:#helmsman CRONUS: tell me, pray tell, vwho vwas it exactly, in vwhich alternate univwerse, that used growvnup captor as a livwing vwarp drivwe in her spaceship for millenia?
-      @meenah_fish MEENAH: hey that wasnt me
-      @meenah_idle MEENAH: i mean
-      @meenah_idle MEENAH: not yet... uh
-      @meenah_wut2:#38| MEENAH: alternate ways
-      @cronus_talk CRONUS: oh sure. no grub sauce on your hands! 
-      @meenah_idle MEENAH: wow you did it
-      @meenah_creepytalk:#not MEENAH: ampora you totally changed my mind about you lets start makin out immediately
-      @cronus_smug:#helmchan CRONUS: just admit it. you havwe it vwithin you to be just as harsh to our behelmeted buddy as i am, if not more.
-      @meenah_idle MEENAH: man
-      @meenah_talk MEENAH: a girls gotta have fuel for her pimp ride know what im sayin
-      @meenah_idle MEENAH: like
-      @meenah_fish MEENAH: i probably took care of him good
-      @meenah_fishtalk MEENAH: you know how it is someones gotta take care of the guy anyways
-      @meenah_wut2:#38( MEENAH: and... yeah
-      @cronus_bored:#i.e.-literally-evweryone CRONUS: oh, howv the rationalizations begin to flowv vwhen it suits your ovwerinflated ego. so vwery typical of the kind of people vwho reject me.
-      @meenah_annoyedtalk MEENAH: at least i dont think im an alien
-      @cronus_huh CRONUS: vwhat? vwhat are you talking about?
-      @meenah_annoyedtalk MEENAH: look at you all frontin in that stupid getup
-      @meenah_annoyedtalk MEENAH: with your slicked hair and that dumb little wand in your mouth
-      @cronus_bored CRONUS: excuse me. its not a vwand. you knovw perfectly vwell my vwizarding days are behind me. its called a "human cigarette" and apparently youre supposed to set it on fire.
-      @cronus_talk CRONUS: although if you ask me, burning it seems like a vwaste of a perfectly good and cool "cigarette."
-      @meenah_annoyedtalk MEENAH: i heard a rumor you think youre a human now
-      @meenah_wut MEENAH: that true
-      @cronus_upset2 CRONUS: its a privwate matter. i dont see vwhy i should havwe to talk about it vwith you, and open myself up to more of your judgmental scorn.
-      @meenah_happytalk MEENAH: sounds like another desperate cry for attention imo
-      @kankri_talk KANKRI: I feel I sh9uld jump in here at this m9ment, Meenah, 6ef9re y9u inadvertently shame Cr9nus f9r his extremely delicate feelings 9f species dysph9ria.
-      @cronus_surprised CRONUS: no, kankri... man, you dont need to jump in here and defend me like this. i got it.
-      @meenah_annoyed MEENAH: aaaand im gone
-      @meenah_annoyedtalk MEENAH: you bros can figure out your boring feelings without me
-      @cronus_sad2 CRONUS: meenah vwait... awv man. just like that, shes out of my life again. you had to go and fuck it up for me, didnt you? some "friends" i havwe.
-      @kankri_talk KANKRI: Listen, I was d9ing y9u a fav9r. Y9u d9n't need t9 6e dating any9ne wh9 can't appreciate y9u f9r wh9 y9u really are, 9r m9re imp9rtantly, which fantasy versi9n 9f y9urself y9u m9st str9ngly identify with.
-      @cronus_bored:#evwen-the-ones-vwho-literally-identify-as-cats CRONUS: yeah, youre probably right. she doesnt appreciate me. so fevw of you cats do, really. 
-      @cronus_upset2 CRONUS: to be honest, she might be right. sometimes i think i might only be saying im a human to get attention. maybe i should givwe it up.
-      @kankri_talk4:#TW#invalidated-struggles#triggered-em9ti9ns KANKRI: I'd 6e extremely disapp9inted t9 hear that, if it were true. That w9uld 6e such a slap in the face t9 all th9se wh9 kn9w themselves t9 6e an alien while trapped in the pedestrian 69dy 9f their 9wn race. It w9uld 6e unspeaka6ly invalidating 9f their struggles and massively triggering t9 their em9ti9ns.
-      @kankri_talk2 KANKRI: 6ut f9rtunately, I kn9w y9u w9uld never st99p as l9w as that. Y9u understanda6ly have d9u6ts a69ut y9ur feelings and pr96a6ly d9wnplay them as a defense mechanism, since s9 few are prepared t9 rec9gnize the legitimacy 9f y9ur plight. 6ut I am, and I just wanted y9u t9 kn9w that I'm here f9r y9u, and am prepared t9 lecture t9 y9u extensively, I mean, listen t9 y9u extensively, a69ut y9ur ultra-imp9rtant pr96lem.
-      @cronus_happy CRONUS: vwowv. thanks, pal.
-      @cronus_happytalk CRONUS: youre right. my feelings really are real. not fake, like the huge disappointing fraud that magic turned out to be. 
-      @cronus_talk CRONUS: i guess the truth is, deep dowvn i alvways knewv i vwas a 1950s-style human greaser.
-      @cronus_talk CRONUS: i just needed to finally be introduced to human culture to make sense of those feelings.
-      @kankri_pray KANKRI: W9nderful. I'm s9 happy y9u have f9und the light 9f truth within y9urself. N9w j9in me in tagging 9ur discussi9n with righte9us warnings, as we c9nsecrate y9ur disadvantage in the h9ly annals 9f Pr96lematics.
-      <!--  -->
+<action sprite='cronus' class='meenahTalk2' command='talk' name='Parle à Meenah.'><args>
+     @meenah_annoyedtalk MEENAH: yo cetait vraiment crade comme replique meme pour toi
+     @cronus_angry CRONUS: la derniere chose dont mes sentiments ont besoin cest la cruaute de ton jugement. je peux juste pas gerer ca, en plus de toutes les autres choses que tu mas faites.
+     @meenah_wut MEENAH: quest ce que je tai fait d'autre putain ??
+     @cronus_sad CRONUS: tu mas ignore.
+     @meenah_wut2 MEENAH: arg
+     @cronus_upset2 CRONUS: cest serieux. ne nie pas mes emotions comme ca sil te plait.
+     @cronus_talk:#he-?#heee-? CRONUS: ecoute, jai une amemone particulierement tortueree et conchefuse. je ne pourrais vwraiemanta pas supporter plus de la desoleation que tu mas inflieugee.
+     @meenah_annoyed MEENAH: je peux pas
+     @meenah_annoyed MEENAH: CROIR-E
+     @meenah_annoyed MEENAH: que tu fais mon truc de blagues de poissons en essayant encore de me draguer
+     @cronus_bored CRONUS: nyeh. qui ne tente rien na rien.
+     @meenah_angrytalk MEENAH: dis plus jamais de trucs de poissons ou je tetripe
+     @cronus_huh CRONUS: tu sais, tes un peu hypocrite, tu penses pas ?
+     @meenah_idle MEENAH: quoi
+     @cronus_talk CRONUS: a me gronder comme ca davwoir dechire captor alors quil la bien merite.
+     @cronus_smug CRONUS: comme si tetais pas encore plus coupable dabuser ce pauvwre gars.
+     @meenah_fishtalk MEENAH: tes tellement un putain de menteur
+     @cronus_smug CRONUS: oh vwraiment ?
+     @cronus_happytalk:#navwigateur CRONUS: dis moi, je ten prie, qui exactement, dans quel univwers alternatif, a utilise captor comme moteur vwivwant de teleportation dans son vwaisseau spatial pendant des millenaires ?
+     @meenah_fish MEENAH: hey cetait pas moi
+     @meenah_idle MEENAH: je veux dire
+     @meenah_idle MEENAH: pas encore… euh
+     @meenah_wut2:#38| MEENAH: dune maniere alternative
+     @cronus_talk CRONUS: oh bien sur. pas de sauce larvwe sur tes mains !
+     @meenah_idle MEENAH: wow ca y est tas reussi
+     @meenah_creepytalk:#non MEENAH: ampora tas totalement change ma vision de toi roulons nous des pelles tout de suite
+     @cronus_smug:#helmchan CRONUS: allez admets le. tas totalement la capacite detre aussi rude avwec notre pote au casque que je le suis, si ce nest pas plus.
+     @meenah_idle MEENAH: mec
+     @meenah_talk MEENAH: une meuf a besoin de carburant pour sa limo tu vois ce que je veux dire
+     @meenah_idle MEENAH: genre
+     @meenah_fish MEENAH: je me suis probablement bien occupee de lui
+     @meenah_fishtalk MEENAH: tu sais comment cest quelquun doit toujours prendre soin du type de toute facon
+     @meenah_wut2:#38( MEENAH: et… ouais
+     @cronus_bored:#i.e.-litteralement-tout-le-monde CRONUS: oh, comment la rationalisation commence a vwenir quand ca arrange ton ego surdimensionne. typique du genre de personne qui me rejette.
+     @meenah_annoyedtalk MEENAH: au moins je pense pas que je suis un alien moi
+     @cronus_huh CRONUS: quoi ? de quoi tu parles ?
+     @meenah_annoyedtalk MEENAH: regarde toi a te mettre en avant dans ce deguisement stupide
+     @meenah_annoyedtalk MEENAH: avec le gel dans tes cheveux et cette petite baguette stupide dans ta bouche
+     @cronus_bored CRONUS: je te demande pardon. cest pas une baguette. tu sais parfaitement que ma periode de magicien est derriere moi. ca sappelle une « cigarette humaine » et apparemment on est suppose lui mettre le feu.
+     @cronus_talk CRONUS: meme si, si tu vweux mon avwis, la bruler semble etre un gachis dune « cigarette » parfaitement cool.
+     @meenah_annoyedtalk MEENAH: jai entendu une rumeur qui dit que tu es un humain maintenant
+     @meenah_wut MEENAH: cest vrai
+     @cronus_upset2 CRONUS: cest privwe. je vwois pas pourquoi je devwrais avwoir a en parler avwec toi, et mouvwrir plus a ton jugement meprisant.
+     @meenah_happytalk MEENAH: ca sonne juste comme un cri desespere pour obtenir de lattention
+     @kankri_talk KANKRI: Je pense que je devrais m'intr9duire dans la c9nversati9n maintenant, Meenah, avant que tu ne fasses par inadvertance h9nte à Cr9nus p9ur ses sentiments extrêmement délicats de dysph9rie d'espèce.
+     @cronus_surprised CRONUS: non, kankri… mec, tas pas besoin de timpliquer la dedans et de me defendre comme ca. je me debrouille.
+     @meenah_annoyed MEENAH: eeeet jme casse
+     @meenah_annoyedtalk MEENAH: vous pouvez discuter de vos sentiments ennuyeux sans moi entre bros
+     @cronus_sad2 CRONUS: meenah attend… oh mec. et juste comme ca, elle sen vwa une nouvwelle fois de ma vwie. tu devwais vwraiment foutre ca en lair pour moi, cest ca ? et apres ca se dit mon « ami ».
+     @kankri_talk KANKRI: Ec9ute, je te faisais une faveur. Tu n'as pas 6es9in de s9rtir avec qui que ce s9it qui ne puisse pas t'apprécier p9ur ce que tu es vraiment, 9u, plus imp9rtant, p9ur quelle versi9n imaginaire de t9i tu apprécies le plus f9rtement.
+     @cronus_bored:#meme-parmi-ceux-qui-sidentifient-litteralement-a-des-chats CRONUS: ouais, tas probablement raison. elle ne mapprecie pas. y a pas un chat quand il sagit de le faire, a vwrai dire.
+     @cronus_upset2 CRONUS: pour etre honnete, elle a peut etre raison. parfois je pense que je dis seulement etre humain pour avwoir lattention des autres. peut etre que je devwrais abandonner.
+     @kankri_talk4:#TW#difficultés-invalidées#trigger-d'ém9ti9ns KANKRI: Je serais extrêmement désapp9inté d'entendre ça, si c'était vrai. Ce serait une telle claque au visage de t9us ceux qui se savent être aliens al9rs qu'ils s9nt c9incés dans le c9rps 6anal de leur pr9pre race. Ce serait incr9ya6lement invalidant p9ur leur c9m6at et un trigger massif de leurs ém9ti9ns.
+     @kankri_talk2 KANKRI: Mais heureusement, je sais que tu ne t'a6aisserais jamais à ce niveau. Tu as, et c'est c9mpréhensi6le, des d9utes sur tes sentiments et tu les minimises en tant que mécanisme de défense, puisque si peu s9nt préparés à rec9nnaître la légitimité de ta détresse. Mais je le suis, et je v9ulais juste que tu saches que je suis là p9ur t9i, et préparé à te serm9nner de manière extensive, je veux dire t'éc9uter de manière extensive, à pr9p9s de t9n pr96lème qui est de la plus haute imp9rtance.
+     @cronus_happy CRONUS: vwowv. merci, mon pote.
+     @cronus_happytalk CRONUS: tas raison. mes sentiments existent, pas comme limmense fraude decevante que la magie sest avweree etre.
+     @cronus_talk CRONUS: je suppose que la vwerite est que, au fond de moi, jai toujours su que jetais un humain du style greaser des annees 1950.
+     @cronus_talk CRONUS: javwais juste besoin de decouvwrir la culture humaine pour trouvwer le sens de ces sentiments.
+     @kankri_pray KANKRI: Merveilleux. Je suis si heureux que tu aies tr9uvé la lumière de la vérité en t9i. Maintenant aide m9i à tagger n9tre discussi9n avec de justes avertissements, al9rs que n9us c9nsigni9ns t9n désavantage dans les annales saintes des Pr96lématiques.
+     <!-- -->
 </args></action>
 	
-	<action sprite='meulin' class='meenahTalk3' command='talk' name='Talk to Meenah.'>
+	<action sprite='meulin' class='meenahTalk3' command='talk' name='Parle à Meenah.'>
       <args>
-      @meenah_idle MEENAH: what
-      @meulin_talk2 MEULIN: (=^･ω･^) &lt; OH!!!!!!!!! I MEANT TO ASK...
-      @meulin_talk2 MEULIN: ヽ(=^･ω･^=)丿 &lt; HAVE YOU MET THE HUMANS YET?
-      @meenah_idle MEENAH: yeah
-      @meulin_happiertalk MEULIN: (=^-ω-^=) &lt; OMG AREN'T THE JUST SO PERF???
-      @meenah_idle MEENAH: nah
-      @meenah_talk MEENAH: dont see what the big deal with em is
-      @meulin_worry MEULIN: (^・x・^) &lt; M33NAH, NO.
-      @meulin_worrytalk MEULIN: (^-人-^) &lt; THEY ARE ALL SO PERFECTLY ADORABLE.
-      @meulin_talk MEULIN: (^・ω・^ ) &lt; EACH IS LITTERALLY MORE PRECIOUS AND PURRFECT THAN THE LAST.
-      @meenah_annoyedtalk MEENAH: if only you could hear how bonkers you sound
-      @meulin_worry:#M33NAH. MEULIN:  ~(=^‥^)/ &lt; M33NAH. M33NAH. NO.
-      @meulin_worrytalk MEULIN: (^._.^)ﾉ &lt; YOU DON'T UNDERSTAND.
-      @meulin_worrytalk MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; THEY ARE MY BABIES.
-      @meenah_annoyed MEENAH: wtfs a babie
-      @meulin_happiertalk MEULIN: (=^･^=) &lt; THEY ARE MY PERFECT PRECIOUS GAY LITTLE BABIES!!!!!!!!!
-      @meenah_annoyed MEENAH: uh
-      @meenah_annoyed MEENAH: whats gay
-      @meulin_happy MEULIN:  (=^ω^=) &lt; IT'S A THING THAT HUMAN BABIES ARE SOMETIMES I THINK!
-      @meenah_annoyed:#failing-to-can#when-it-comes-to-dealin-w-it MEENAH: cant even deal w this meu
-      @meulin_happiertalk MEULIN: (^･o･^) &lt; OH AND DO YOU EVEN HAVE THE SLIGHTEST IDEA WHAT THE SHIPPING IMPLICATPUNS ARE???
-      @meulin_happiertalk MEULIN: ヽ(=^･ω･^=)丿 &lt; BY ADDING THE HUMANS INTO THE PICTURE, BOTH PRE-SCRATCH AND SCRATCH-POST, IT HAS INCREASED THE PAIRING PAWSIBILITIES EXPOUNCENENTIALLY!
-      @meulin_wut MEULIN: (^-人-^) &lt; IT'S REALLY B33N OVERWHELMING, I CAN'T EVEN...
-      @meulin_wut:#NO MEULIN: (^・x・^) &lt; I JUST
-      @meulin_worry:#I-CAN'T MEULIN: (=ﾟ･ﾟ=) &lt; THAT'S IT.
-      @meulin_worrytalk MEULIN: (=ＴェＴ=) &lt; I'M SO DONE.
+      @meenah_idle MEENAH: quoi
+      @meulin_talk2 MEULIN: (=^･ω･^) &lt; OH !!!!!!!!! JE VOULAIS TE DEMANDER...
+      @meulin_talk2 MEULIN: ヽ(=^･ω･^=)丿 &lt; EST-CE QUE TU AS DEJA RENCONTRE LES HUMAINS ?
+      @meenah_idle MEENAH: ouais
+      @meulin_happiertalk MEULIN: (=^-ω-^=) &lt; OMG NE SONT ILS PAS TROP PARFAITS ???
+      @meenah_idle MEENAH: nan
+      @meenah_talk MEENAH: jvois pas en quoi ils sont si geniaux
+      @meulin_worry MEULIN: (^・x・^) &lt; M33NAH, NON.
+      @meulin_worrytalk MEULIN: (^-人-^) &lt; ILS SONT TOUS SI PARFAITEMENT ADORABLES.
+      @meulin_talk MEULIN: (^・ω・^ ) &lt; CHACUN D’EUX EST LITTERALEMENT PLUS PRECIEUX ET PARFAIT QUE LE PRECEDENT.
+      @meenah_annoyedtalk MEENAH: si seulement tu pouvais voir a quel point tu brailles comme une cinglee
+      @meulin_worry:#M33NAH. MEULIN:  ~(=^‥^)/ &lt; M33NAH. M33NAH. NON.
+      @meulin_worrytalk MEULIN: (^._.^)ﾉ &lt; TU NE COMPRENDS PAS.
+      @meulin_worrytalk MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; CE SONT MES BEBES.
+      @meenah_annoyed MEENAH: cest quoi un putain de bebe 
+      @meulin_happiertalk MEULIN: (=^･^=) &lt; ILS SONT MES PRECIEUX ET PARFAITS PETITS BEBES GAYS !!!!!
+      @meenah_annoyed MEENAH: heu
+      @meenah_annoyed MEENAH: c est quoi gay
+      @meulin_happy MEULIN:  (=^ω^=) &lt; C’EST UN TRUC QUE LES BEBES HUMAINS SONT DES FOIS JE CROIS !
+      @meenah_annoyed:#echoue-lamentablement#a-ne-pas-en-avoir-marre MEENAH: ca y est jen ai marre meu
+      @meulin_happiertalk MEULIN: (^･o･^) &lt; OH ET EST-CE QUE TU AS LA MOINDRE IDEE DES IMPLICHATIONS DE SHIP ???
+      @meulin_happiertalk MEULIN: ヽ(=^･ω･^=)丿 &lt; EN AJOUTANT LES HUMAINS A L’EQUATION, PRE-SCRATCH ET POST-SCRATCH, LES POSSIBILITES DE COUPLES ONT EXPOILNENTIELLEMENT AUGMENTE !
+      @meulin_wut MEULIN: (^-人-^) &lt; CA A VRAIMENT ETE EXTENUANT, JE NE PEUX...
+      @meulin_wut:#NO MEULIN: (^・x・^) &lt; J’AI JUSTE
+      @meulin_worry:#I-CAN'T MEULIN: (=ﾟ･ﾟ=) &lt; CA SUFFIT.
+      @meulin_worrytalk MEULIN: (=ＴェＴ=) &lt; J’EN PEUX PLUS.
       @meulin_mime5~meme7  
       @meulin_mime1~meme8  
       @meulin_mime2~meme9  
-      @meenah_talk:#not-really MEENAH: hate to change the subject
-      @meenah_talk:#didnt-wanna-get-tangled-up-in-his-hair MEENAH: but i kinda side stepped past kurloz back there whilst granting him a wide berth
-      @meenah_talk MEENAH: he obviously wont say a thing to me which is probs for tha best
-      @meenah_talk MEENAH: but since he actually talks to you maybe you can answer stuff
-      @meulin_idle:#HAIR-POOFING-TIPS? MEULIN: (=^ω^=) &lt; LIKE WHAT!
-      @meenah_talk MEENAH: like do you know if hes god tier
-      @meenah_talk MEENAH: im building this army and its going horribubbly so far and im sure it would be unimaginably horrendous havin him along but i needs all the muscle i can get know what im sayin
-      @meulin_idle MEULIN: (=^‥^) &lt; I ACTUALLY DON'T KNOW!
-      @meulin_happy MEULIN: (=^･ω･^=) &lt; YES WE ARE PRETTY CLOSE, BUT YOU KNOW HOW HE IS. HE'S STILL VERY SNEAKRETIVE AND STILL LOVES MAKING RIDDLES OUT OF EVERYTHING.
-      @meulin_talk2 MEULIN: (=^･ω･^=) &lt; HE'S B33N VERY EXCITED LATELY. HE F33LS THAT SO MANY OF HIS SPOOKY RELIGION'S PROPHECIES ARE ON THE VERGE OF COMING TRUE, AND THE STARS ARE COMING INTO FELINEMENT.
-      @meulin_oops MEULIN: (=^･ω･^=) &lt; REMEMBER HOW HE USED TO GO ON AND ON ABOUT THE MESSIAHS, ANGELS OF DOUBLE DEATH, AND ALL THAT WACKY STUFF?
-      @meenah_talk MEENAH: yeah we always had way waaay too many religious nutjobs in our party
-      @meenah_talk:#moar-slammin-puns#or-should-i-say...#salmon MEENAH: so i always tuna'd him trout
-      @meenah_talk MEENAH: back when he could talk at least
-      @meenah_happytalk:#angels-of-double-win-more-like MEENAH: then he did us all the psycho favor of sewing his mouth shut so it was win win
-      @meulin_wut MEULIN: (^‥^) &lt; HEH. I SUPPOSE.
-      @meenah_talk MEENAH: please dont take this for interest in shippin talk
-      @meenah_talk MEENAH: but you and he arent a red item anymore right
-      @meulin_talk MEULIN: (=^ω^=) &lt; OH NO NO NO THAT WAS A LONG TIME AGO.
-      @meulin_happy MEULIN: (=^ω^=) &lt; WE'RE JUST REALLY GOOD FRIENDS NOW. WE HANG OUT AND JOKE AROUND ALL THE TIME. HE EVEN HELPS ME WITH MY GRIDS!
-      @meulin_laugh MEULIN: ~(=^‥^)ノ &lt; GENERALLY I STICK TO THE RED MATCHUPS WHILE HE ADVISES ON BLACK. HE'S 33RILY TALENTED AT PICKING BLACKROM PAIRS! PROBABLY EVEN BETTER THAN ME...
-      @meenah_idle MEENAH: dag what a boring fact
-      @meenah_talk MEENAH: but its cool youre good fronds still
-      @meenah_happytalk MEENAH: i thought i picked up heavy planktonic vibes from you
-      @meenah_happytalk MEENAH: now why dontcha run along and talk to him
-      @meenah_happytalk:#unabilitied-mofos-errywhere MEENAH: make use a your mutually compatible disabilities for communicatin and whatnot
+      @meenah_talk:#pas-vraiment MEENAH: je deteste changer de sujet
+      @meenah_talk:#jvoulais-pas-mempetrer-dans-ses-cheveux MEENAH: mais jai quelque peu croise kurloz la bas en gardant mes distances
+      @meenah_talk MEENAH: evidemment il me dirait pas un seul mot et cest probablement mieux comme ca
+      @meenah_talk MEENAH: mais vu quil te parle a toi peut etre que tu peux repondre a mes questions
+      @meulin_idle:#CONSEILS-MAKE-UP-? MEULIN: (=^ω^=) &lt; COMME QUOI ?
+      @meenah_talk MEENAH: comme est ce que tu sais si il est passe tier divin
+      @meenah_talk MEENAH: je rassemble cette armee et ca sannonce atrocement mal jusquici et je suis sure que ca serait inimaginabullement horrible de lavoir a nos cotes mais jai besoin de tous les muscles que je peux trouver si tu vois ce que je veux dire
+      @meulin_idle MEULIN: (=^‥^) &lt; J’EN AI AUCUNE IDEE !
+      @meulin_happy MEULIN: (=^･ω･^=) &lt; OUI ON EST ASSEZ PROCHES, MAIS TU SAIS COMMENT IL EST. IL EST TOUJOURS TRES SECRET ET IL AIME TOUJOURS POSER DES ENIGMES A PROPOS DE TOUT ET N’IMPORTE QUOI.
+      @meulin_talk2 MEULIN: (=^･ω･^=) &lt; IL EST TRES EXCITE DERNIEREMENT. IL SENT QUE BEAUCOUP DES DROLES DE PROPHETIES DE SON EFFRAYANTE RELIGION SONT SUR LE POINT DE SE REALISER, ET QUE LES ETOILES SONT EN TRAIN DE S’ALIGNER.
+      @meulin_oops MEULIN: (=^･ω･^=) &lt; TU TE SOUVIENS COMME IL PARLAIT DES MESSIES, DES ANGES DE LA DOUBLE MORT, ET TOUT CES TRUCS CINGLES ?
+      @meenah_talk MEENAH: ouais on a toujours eu beauuuucoup trop de cingles religieux dans notre equipe
+      @meenah_talk:#plus-de-jeux-de-mots#ou-devrais-je-dire...#jeux-de-m’eau MEENAH: alors jai toujours laisse le poisson filet
+      @meenah_talk MEENAH: quand on pouvait se parler du moins
+      @meenah_happytalk:#anges-de-la-double-victoire-plutot MEENAH: puis il nous a fait a tous la faveur demente de coudre ses putains de levres ensembles donc cetait gagnant gagnant
+      @meulin_wut MEULIN: (^‥^) &lt; HEU. JE SUPPOSE.
+      @meenah_talk MEENAH: sil te plait ne prends pas ca pour de linteret envers les ships
+      @meenah_talk MEENAH: mais toi et lui netes plus en rouge nest ce pas
+      @meulin_talk MEULIN: (=^ω^=) &lt; OH NON NON NON C’ETAIT IL Y A LONGTEMPS
+      @meulin_happy MEULIN: (=^ω^=) &lt; ON EST JUSTE TRES BONS AMIS MAINTENANT. ON SE BALADE ET ON PLAISANTE TOUT LE TEMPS. IL M’AIDE MEME AVEC MES QUADRANTS !
+      @meulin_laugh MEULIN: ~(=^‥^)ノ &lt; GENERALEMENT JE M’OCCUPE DES PAIRES ROUGES PENDANT QU’IL ME CONSEILLE POUR LE NOIR. IL EST ETRANGEMENT TALENTUEUX POUR TROUVER DES COUPLES SOMBRES ! PROBABLEMENT ENCORE MEILLEUR QUE MOI...
+      @meenah_idle MEENAH: meuf quelle anecdote ennuyeuse
+      @meenah_talk MEENAH: mais cest cool que vous soyez toujours amis
+      @meenah_happytalk MEENAH: je pensais bien que cetait planctonique entre vous
+      @meenah_happytalk MEENAH: maintenant pourquoi tu tenfuis pas pour lui parler
+      @meenah_happytalk:#mofos-handicapes-partruite MEENAH: utilisez vos handicaps mutuellement compatibles pour la communication ou je sais pas quoi
       @meenah_fish~meenahmeme  
       <!--  -->
       </args>
@@ -144,8 +144,8 @@
 
 <action sprite='karkat' class='meenahTalk4' command='talk' name='Talk to Meenah.'>
       <args>
-      @karkat_idle KARKAT: LIKE I SAID, MAKE YOURSELF AT HOME.
-      @karkat_talk KARKAT: FEEL FREE TO HANG OUT WITH MY LUSUS THERE. THOUGH I SHOULD WARN YOU, HE'S NEVER MET ANOTHER KID HE DIDN'T MAKE AT LEAST SOME VAGUE ATTEMPT TO EAT.
+      @karkat_idle KARKAT: COMME JE LE DISAIS, FAIS COMME CHEZ TOI.      
+      @karkat_talk KARKAT: LIBRE A TOI DE TRAINER AVEC MON LUSUS. NEANMOINS JE DEVRAIS T’AVERTIR, IL N’A JAMAIS RENCONTRE UN AUTRE ENFANT QU’IL N’AIT AU MOINS VAGUEMENT ESSAYE DE DEVORER.
       <!--  -->
       </args>
 </action>
@@ -153,36 +153,36 @@
 <action sprite='terezi' class='meenahTalk5' command='talk' name='Talk to Meenah.'>
       <args>
       @terezi_idle TEREZI: OH... H3Y
-      @terezi_idle TEREZI: 1TS YOU
-      @terezi_idle TEREZI: WH4T 4R3 YOU DO1NG 1N MY H1V3?
-      @meenah_idle MEENAH: shit pyrope dont sniff at me
-      @meenah_talk MEENAH: i was standin around in shoutkats place when it all dream switched on me outta nowhere
-      @terezi_idle TEREZI: D1D YOU S33 H1M COM3 1N H3R3?
-      @meenah_idle MEENAH: naw
-      @meenah_idle MEENAH: wait you lookin for him now too?
-      @terezi_idle TEREZI: Y3S
-      @meenah_talk MEENAH: good luck with that the guys slippery as a goddamn eel
-      @meenah_talk MEENAH: spent all day tracking him down myself
-      @meenah_talk MEENAH: but i finally caught up with him a while ago
-      @terezi_idle TEREZI: OH?
-      @meenah_idle MEENAH: yeah
-      @meenah_idle MEENAH: and i think
-      @meenah_creepy MEENAH: we might be goin on a date later?
-      @terezi_idle TEREZI: WH4T
-      @meenah_idle MEENAH: i mean
-      @meenah_happy MEENAH: maybe
-      @meenah_talk MEENAH: i dunno if im misreadin his intent there
-      @meenah_talk MEENAH: you might know better than me
-      @terezi_idle TEREZI: WH4T D1D H3 S4Y?
-      @meenah_talk MEENAH: well whatever the case is later hes goin to hop off the meteor and fight lord invincible with me
-      @meenah_wut MEENAH: whatta you think am i readin too much into shit or
-      @terezi_idle TEREZI: UMM...
-      @terezi_sad TEREZI: SHRUG >:|
-      @meenah_idle MEENAH: yeah guess well sea
-      @meenah_idle MEENAH: anyway im out
-      @meenah_talk MEENAH: this hive you got is craycray pyrope
-      @meenah_happy MEENAH: can appreciate a girl with a gaudy sense a design
-      @! Be Meenah?
+      @terezi_idle TEREZI: C3ST TO1
+      @terezi_idle TEREZI: QU3ST C3 QU3 TU F41S D4NS MON N1D ?
+      @meenah_idle MEENAH: merde pyrope ne me sniffe pas comme ça
+      @meenah_talk MEENAH: jetais debout dans la chambre de chonkat quand j’ai ete reveporte dun coup
+      @terezi_idle TEREZI: TU L4S VU V3N1R 1C1 ?
+      @meenah_idle MEENAH: nan
+      @meenah_idle MEENAH: attends tu le cherches aussi maintenant ?
+      @terezi_idle TEREZI: OU1
+      @meenah_talk MEENAH: bonne chance alors ce gars se faufile hors de vue comme une saloperie danguille
+      @meenah_talk MEENAH: jai passe la journee à le traquer moi meme
+      @meenah_talk MEENAH: mais je lai finalement raietrappe ya un moment
+      @terezi_idle TEREZI: OH ?
+      @meenah_idle MEENAH: ouais
+      @meenah_idle MEENAH: et je pense
+      @meenah_creepy MEENAH: quon pourrait avoir un rendezvous amoureux plus tard ?
+      @terezi_idle TEREZI: QUO1
+      @meenah_idle MEENAH: jveux dire
+      @meenah_happy MEENAH: peut etre
+      @meenah_talk MEENAH: je sais pas si je dechiffre mal ses intentions
+      @meenah_talk MEENAH: tu sais surement mieux que moi
+      @terezi_idle TEREZI: QU3ST C3 QU1L 4 D1T ?
+      @meenah_talk MEENAH: bien quoiquil arrive plus tard il va sauter du météore et combattre lord invincible avec moi
+      @meenah_wut MEENAH: tu penses que je me fais des films ou
+      @terezi_idle TEREZI: HUMM...
+      @terezi_sad TEREZI: *H4USS3 L3S 3P4UL3S* >:|
+      @meenah_idle MEENAH: ouais jimagine quon s’en fout
+      @meenah_idle MEENAH: bref je me rascasse
+      @meenah_talk MEENAH: ton nid est super cool pyrope
+      @meenah_happy MEENAH: je peux apprecier une fille avec un sens de la decoration comme le tien
+      @! Deviens Meenah ?
       <!-- y/n -->
       </args>
 </action>
