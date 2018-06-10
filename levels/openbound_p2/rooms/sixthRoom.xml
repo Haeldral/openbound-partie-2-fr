@@ -128,7 +128,7 @@
   	</sprite>
   	
   	<sprite class='chest8' name='sixthRoomChest2' x='956' y='1306'>
-			<action command='openChest' name='Open.'>
+			<action command='openChest' name='Ouvre.'>
 		  	<args>sixthRoomChest2,item2,
 		    @! Vous trouvez un sac rempli de SCARABÉES DE CONTREBANDE ILLICITES !
 				@! C’est la devise absolument parfaite pour les pots-de-vin des procureurs quand on se retrouve mis sur la sellette par la loi. Leurs museaux avides ne peuvent y résister. Soyez juste sûr que les terrifiants monstres sans cervelle ne vous attrappent pas quand vous êtes en train de le faire. Vous devez attendre que Sa Tyrannie soit distraite par quelque chose d’autre que les affaires de justice. Ce qui en l'occurrence est loin d'être rare.
