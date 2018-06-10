@@ -3,7 +3,7 @@
 <action class='rebubble' command='presentActions' silent='true'>
 	<args>
 		<!-- click rebubble button, these commands appear. the response is randomly drawn from the list.  -->
-<action command='randomTalk' name='Rebubble this memory?' silent='true'><args>
+<action command='randomTalk' name='Rebuller ce souvenir ?' silent='true'><args>
       @! You rebubble the memory to your followers without really thinking ahead. It has no conceivable relevance to anyone who follows your feed, and everyone wonders why they're even bothering to read this shit. A few people who were on the fence about you quietly unfollow your bubblr feed. The horrorterrors thank you for contributing to the entropy of the afterlife.
       @! You rebubble the memory and almost instantly regret it. But now it's just sitting there on your feed, already racking up 'likes', 'hates', and additional rebubbles. You wish you hadn't, but now it's out there. Popping the bubble now would make you look wishywashy to your followers.
       @! You rebubble the memory. It's a huge hit! People give you a big pat on the back for rebubbling this content, and you essentially reap more credit and recognition for the content than the original author of the memory. It's a great feeling, riding the coattails of other people's interesting memories to skyrocket in stature among your followers. This must be how clever people with real accomplishments feel ALL THE TIME!
@@ -27,7 +27,7 @@
       <!--  -->
       </args>
 </action>
-<action command='cancel' name='No thanks.' silent='true'>
+<action command='cancel' name='Non merci.' silent='true'>
 </action>	
 	</args>
 </action>
