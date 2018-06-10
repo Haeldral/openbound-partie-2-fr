@@ -44,7 +44,7 @@
 
 		
 		
-		<action sprite='meulin' class='kurlozTalk5' command='talk' name='Talk to Kurloz.'>
+		<action sprite='meulin' class='kurlozTalk5' command='talk' name='Parle à Kurloz.'>
       <args>
       @meulin_mime4~meme10  
       @kurloz_mime1~kurmeme1:#:o)  
@@ -56,7 +56,7 @@
       @meulin_mime5~meme14  
       @kurloz_mime1~kurmeme4:#:o)  
       @kurloz_mime2~kurmeme5:#:o)  
-      @! Give Kurloz a COD PIECE?
+      @! Donner à Kurloz une BRAGUETTE?
       <!-- y/n -->
       </args>
 		</action>
@@ -66,12 +66,13 @@
 			@kurloz_hypno2%kurbox~kurtalk1  
       @kurloz_hypno2%kurbox~kurtalk2  
       @kurloz_hypno2%kurbox~kurtalk3  
-      @meulin_hypno%kurbox:#OTM#RYDAS-AND-NINJETTES-REPRESENT MEULIN: (=ﾟ･ﾟ=) &lt; ALL HAIL THE ONE TRUE MESSIAH. 
+      @meulin_hypno%kurbox:#HDG#MEULIN-REPRESENTANTE-DES-RYDAS-ET-DES-NINJETTES: (=ﾟ･ﾟ=) &lt; GLOIRE À L’UNIQUE ET VERITABLE MESSIE.  
       @kurloz_hypno2%kurbox~kurtalk4  
-      @meulin_hypno%kurbox:#MUCH-CLOWN-LOVE MEULIN: (=ﾟ･ﾟ=) &lt; MAY THE BARD'S RIOTOUS CHUCKLEVOODOOS INSPIRE NIGHTMARES IN ALL WHO WOULD OPPAWS CALICORN, AND MAY THE JOCULARKITTY OF HIS VAST HONK RING LOUD AND MOTHER FUCKIN TRUE ALL THE WAY TO SHANGRI LOL.
+      @meulin_hypno%kurbox:#MEULIN-PLEINE-D-AMOUR-DE-CLOWN: (=ﾟ･ﾟ=) &lt; 
+PUISSE LE RICANEVAUDOU TAPAGEUR DU BARDE DONNER DES CAUCHEMARS A TOUS CEUX QUI FEULERAIENT OBSTACLE À CALICORN, ET PUISSE LA JOVIALITE DE SON VASTE HONK COUSSINET FORT ET PUTAIN DE VRAI JUSQUAU SHANGRI LOL.
       @kurloz_hypno1%kurbox~kurtalk5  
       @kurloz_hypno1%kurbox~kurtalk6  
-      @meulin_hypno%kurbox MEULIN: (=ﾟ･ﾟ=) &lt; MAY THIS LUDICROUS PAIR OF SHORTS ASSNIFFST HIS HOLY MISSION, AND FLUMMOX ALL WHO WOULD CATST THEIR UNWORTHY GAZE PON ITS FRESH FUCKIN BULGE.
+      @meulin_hypno%kurbox MEULIN: (=ﾟ･ﾟ=) &lt; PUISSE CE SHORT RIDICULE ASSISTER SA MISSION SACREE, ET DEROUTER TOUS CEUX QUI POSERONT LEUR REGARD INDIGNE SUR CETTE PUTAIN DE SAILLIE FRAICHE.
       @kurloz_hypno1%kurbox~kurtalk7  
       <!--  --> 
       </args>
@@ -97,7 +98,7 @@
       @kurloz_angry%kurbox~kurtalk17  
       @kurloz_angry%kurbox~kurtalk18  
       @kurloz_smile%kurbox~kurtalk19:#:o)  
-      @gamzee_idle%kurbox GAMZEE: shut your mother fucking mouth and give me the cod piece
+      @gamzee_idle%kurbox GAMZEE: ferme ta putain de gueule et donne-moi la braguette
       @kurloz_zip%kurbox KURLOZ:
       <!--  -->
       </args>
