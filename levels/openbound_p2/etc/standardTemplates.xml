@@ -38,6 +38,7 @@
 				<animation name='opened' sheet='chest8OpenSheet' x='-48' y='-40' loopNum='0'/>
 		</sprite>
 		
+		<!--
 		<sprite class='teleporter' width='110' height='60'>
 		  <animation sheet='teleporterPad' x='-66' y='-120'/>
 	  </sprite>
