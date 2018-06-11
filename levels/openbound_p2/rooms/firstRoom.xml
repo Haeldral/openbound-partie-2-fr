@@ -273,9 +273,9 @@
   				<action command='setGameState'>
   					<args>meenahGone,false</args>
   					<action command='removeActions'>
-  						<args>mituna,Talk to Mituna.,Talk to Mituna.</args> <!-- yes, twice! -->
+  						<args>mituna,Parle à Mituna.,Parle à Mituna.</args> <!-- yes, twice! -->
   						<action command='removeActions'>
-								<args>cronus,Talk to Cronus.,Ask Cronus to join.,Where's Karkat?,Talk to Cronus.</args> <!-- yes, twice! -->
+								<args>cronus,Parle à Cronus.,Demande à Cronus de se joindre à toi.,Où est Karkat?,Parle à Cronus.</args> <!-- yes, twice! -->
 								<action command='addAction'>
 									<args>mituna,
 										<action class='mitunaTalk6'>
@@ -292,7 +292,7 @@
 																<action class='beMituna'/>
 															</args>
 															<action command='removeAction' noDelay='true'>
-																<args>mituna,Grill Mituna.</args>
+																<args>mituna,Grille Mituna.</args>
 																<action command='addActions' noDelay='true'>
 																	<args>cronus,
 																		<action class='cronusTalk5'/>
@@ -401,7 +401,7 @@
 			<action class='cronusTalk7'>
 				<action command='presentActions'>
 					<args>
-						<action name='Yes.' class='beCronus'>
+						<action name='Oui.' class='beCronus'>
 							<action command='playSong'>
 								<args>violetPrinceSong</args>
 								<action command='setGameState'>
@@ -409,13 +409,13 @@
 									<action command='removeSprite'>
 										<args>meenah,firstRoom</args>
 										<action command='removeActions'>
-											<args>mituna,Be Mituna.</args>
+											<args>mituna,Deviens Mituna.</args>
 										</action>
 									</action>
 								</action>
 							</action>
 						</action>
-						<action name='No.' command='cancel'/>
+						<action name='Non.' command='cancel'/>
 					</args>
 				</action>
 			</action>
@@ -499,7 +499,7 @@
   	</sprite>
   	
   	<sprite class='chest2' name='firstRoomChest1' x='1230' y='208'>
-			<action command='openChest' name='Open.'>
+			<action command='openChest' name='Ouvre.'>
 					<args>firstRoomChest1,obj01,
 						@! Vous trouvez une BOISSON ALTERNIENNE SANS ALCOOL !
 						@! Vous n'êtes pas trop à fond sur l'histoire alternienne, mais apparemment l'impératrice en aurait eu tellement marre de l’emprise des subjongleurs sur le marché du soda qu’elle aurait créé une boisson encore plus chargée en sucre que le vil élixir. Les Noblesangs ont cependant considéré ces rapports marketing comme des mensonges blasphématoires. Et ils avaient raison. Le breuvage contenait en réalité zéro calorie, ce qu’elle avait secrètement mandaté pour pouvoir garder une fine ligne. Malgré cela, tous les serfsangs sifflaient les cannettes par milliard sans réfléchir, pendant que la Condesce raflait tout l’argent.
@@ -509,11 +509,11 @@
   	</sprite>
   	
   	<sprite class='chest2' name='firstRoomChest2' x='1194' y='1090'>
-			<action sprite='!cronus' command='talk' name='Open.'>
+			<action sprite='!cronus' command='talk' name='Ouvre.'>
 				<args> @! Vous ne pouvez pas l'ouvrir ! Peut-être que si vous essayez avec quelqu’un d'autre...</args>
 			</action>
 			
-			<action sprite='cronus' command='openChest' name='Open.'>
+			<action sprite='cronus' command='openChest' name='Ouvre.'>
 				<args>firstRoomChest2,obj02,
 				  @! Hey Eridan ! Ou peu importe ton nom ! Je veux bien sortir avec toi !!!
 				  @cronus_surprised CRONUS: vwraiment ?
